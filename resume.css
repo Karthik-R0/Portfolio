@@ -349,7 +349,7 @@ a:hover {
 
 @media (max-width: 899px) {
   body {
-    margin-left: 10px !important;
+    margin-left: 0px !important;
     height: auto;
     overflow-y: visible;
     padding-top: 1px; 
