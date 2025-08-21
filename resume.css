@@ -349,7 +349,7 @@ a:hover {
 
 @media (max-width: 899px) {
   body {
-    margin-left: 30px !important;
+    margin-left: 10px !important;
     height: auto;
     overflow-y: visible;
     padding-top: 1px; 
@@ -384,7 +384,7 @@ a:hover {
   .top-container {
     width: calc(100% - var(--sidebar-collapsed-width));
     margin-left: var(--sidebar-collapsed-width);
-    margin-top: 30px;
+    margin-top: 40px;
   }
 
   .bottom-container {
